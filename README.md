@@ -1,1 +1,1 @@
-projeto para realizar abstração de um bootcamp da plataforma da digital innovation one utilizando a linguagem java, além de colocar de forma prática conceitos da orientação a objetos da linguagem o que ajudou bastante numa boa codificação de classes, atributos e métodos.
+projeto para realizar abstração de um bootcamp da plataforma da digital innovation one utilizando a linguagem java, além de colocar de forma prática conceitos da orientação a objetos da linguagem, o que ajudou bastante numa boa codificação de classes, atributos e métodos.
